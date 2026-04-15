@@ -2,3 +2,8 @@
 site
 .cache
 __pycache__
+
+# Hugo
+/public/
+/resources/_gen/
+/.hugo_build.lock
