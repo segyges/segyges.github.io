@@ -14,6 +14,12 @@ title = "segyges"
   # description = "My awesome website"
   # copyright = "Copy, _right?_ :thinking_face:"
 
+[params.author]
+  name = "segyges"
+  links = [
+    { github = "https://github.com/segyges" },
+  ]
+
 # [params.author]
 #   name = "Your name here"
 #   email = "youremail@example.com"
