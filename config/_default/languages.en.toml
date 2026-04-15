@@ -2,7 +2,7 @@ disabled = false
 locale = "en"
 label = "English"
 weight = 1
-title = "segyges"
+title = "SE Gyges"
 
 [params]
   displayName = "EN"
@@ -15,7 +15,7 @@ title = "segyges"
   # copyright = "Copy, _right?_ :thinking_face:"
 
 [params.author]
-  name = "segyges"
+  name = "SE Gyges"
   links = [
     { github = "https://github.com/segyges" },
   ]

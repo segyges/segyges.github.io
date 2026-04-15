@@ -1,6 +1,3 @@
 ---
-title: "segyges"
-description: "Welcome."
+title: "SE Gyges"
 ---
-
-Welcome to the blog.

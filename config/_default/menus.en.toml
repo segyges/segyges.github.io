@@ -16,19 +16,8 @@
   weight = 10
 
 [[main]]
-  identifier = "erratum"
-  name = "Erratum"
-  weight = 20
-
-[[main]]
-  name = "Index"
-  parent = "erratum"
-  pageRef = "erratum"
-  weight = 10
-
-[[main]]
   name = "UBI"
-  pageRef = "ubi"
+  pageRef = "ubi/proposal"
   weight = 30
 
 #[[main]]
