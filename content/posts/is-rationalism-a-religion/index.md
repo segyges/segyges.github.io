@@ -6,118 +6,135 @@ slug: "is-rationalism-a-religion"
 source: "leaflet"
 sourceUrl: "https://segyges.leaflet.pub/3m6fzgark2k22"
 ---
+# Is Rationalism a Religion
 
-# Is Rationalism A Religion
+> On one notable occasion there was a group that went semicultish whose rallying cry was “Rationality! Reason! Objective reality!” (More on this later.) Labeling the Great Idea “rationality” won’t protect you any more than putting up a sign over your house that says “Cold!” You still have to run the air conditioner— expend the required energy per unit time to reverse the natural slide into cultishness. Worshipping rationality won’t make you sane any more than worshipping gravity enables you to fly. You can’t talk to thermodynamics and you can’t pray to probability theory. You can use it, but not join it as an in-group.
 
-If you want to decide whether rationalism is a religion, you must first answer what a religion is.
+Certain rationalists are prone to [telling people, in great detail,](https://x.com/aella_girl/status/1989999538262925677) that rationalism is not a religion. Eliezer Yudkowsky wrote about how [Every Cause Wants To Be A Cult](https://www.readthesequences.com/Every-Cause-Wants-To-Be-A-Cult) and then wrote [three](https://www.readthesequences.com/Two-Cult-Koans) [separate](https://www.readthesequences.com/Cultish-Countercultishness) [essays](https://www.lesswrong.com/posts/cyzXoCv7nagDWCMNS/you-re-calling-who-a-cult-leader) either denying or mocking the idea that what he was in or leading a cult, which sends sort of a mixed message.
 
-This is actually a somewhat difficult question. Your choice of definition determines whether rationalism is a religion.
+My immediate reaction is that rationalism is so obviously a religion that it is insulting to deny it. People whose opinions I respect have the exact opposite reaction.
 
-Unfortunately many answers of religion beg the question: `religion` is often an institution of some kind which is `religious`, and `religious` is that which characterizes the institution of `religion`. Either `religion` or `religious` are also frequently defined in terms of `spirituality` or the `spiritual`. You would think this would save us, but no: these are often defined in terms of `religion`. So simply consulting a dictionary does not help us very much. This is not a problem with dictionaries, this is just how words work. Words are given meaning by how they are used. This is why computers can learn to use natural languages (e.g., English) by example, but not from definitions.
+This comes down to a question of definition, which is fundamentally arbitrary. There are undeniably traits that traditional religions have and rationalism lacks, and if you think these are good litmus tests for being or not being a religion, rationalism is not a religion.
 
-We can simply embrace tautology here. How is the word used? `Religion` is a set of institutions commonly called `religions`, of which the most prominent are Christianity, Islam, Hinduism, and Buddhism. Anything which is similar enough to those institutions is also a religion. Our further questions will simply be chosen to try to identify how we want to draw that boundary.
+I would hope that a sober examination of the entire thing will convince almost anyone that it's at least extremely religion-ish. Rationalism is undeniably a very particular group of people. It has been described as a community, a scene, and a movement. Rather than trying to define 'religion' and argue if it applies, we can look at what traits rationalism shares with well-recognized religions and see if the comparison helps us to understand rationalism. What is rationalism like in practice?
 
-More precisely, our questions will be meant to identify what options we have for deciding to draw that boundary. These choices are fundamentally arbitrary, as many questions of definition are. So we find that we have unasked the question before we even really tried to answer it, and we are instead asking a new one: In what ways is rationalism like a religion? Are those things important?
+In short, rationalists tend to hold a few specific texts and their authors in extremely high regard and to be focused intensely on an end-of-the-world narrative. Many members look to rationalism as a defining system for how to think and how to live their lives. Some believe that they are on a mission to save the world. Rationalism has extremely specific ingroup language and shibboleths, has its own organizations and meetings, and has produced a number of schisms, cults, and heresies.
 
-If you think that rationalism resembles a religion in important ways, it is a religion. If you think it does not resemble a religion in those ways, or that those ways are not important, it is not a religion.
+These are the traits of traditional religions that rationalism does not have:
 
-## Spirituality
+1) Belief in the supernatural
+2) Rituals of prayer or meditation
+3) Exclusivity, that is, only being able to adhere to one religion
 
-One definition, from [the post which I am mostly answering](https://x.com/aella_girl/status/1989999538262925677), is this:
-
-"If there's anything that is central to qualifying as a religion, in my mind, it's something like a systematized source of spirituality. Imo the rationalists are lacking in this[...]"
-
-This suffers from the question-begging with definitions: What, precisely, does the author think that "spirituality" means? Nevertheless, we can take this definition seriously on its own terms. Given that religion is a systematized source of spirituality, and given that rationalism lacks any systematic spirituality, it is true that rationalism is not a religion. Logically, this is perfectly sound.
-
-So to answer if we agree, we have to assess these two premises. Is religion a systematized source of spirituality? Does rationalism lack systematized spirituality? Since the word 'spirituality' appears in both, and is somewhat slippery, we will have to address what we mean by 'spirituality', too.
-
-## What is Spirituality
-
-Is religion, at least to some degree, a systematized source of spirituality? This seems reasonable, so let's assume it is. But what, then, is spirituality?
-
-We can try to answer this in a few ways. We will once again embrace tautology: spirituality is the thing that humans who are practicing a known religion do, and we are simply trying to guess what that thing is.
-
-1. Spirituality is a set of beliefs concerning the supernatural
-2. Spirituality is a set of practices or rituals meant to petition supernatural forces or beings
-3. Spirituality is a set of beliefs about ultimate reality, yourself, existence, virtue, meaning, etc.
-4. Spirituality is a set of practices or rituals meant to induce a specific state of mind (prayer, meditation, etc)
-5. Spirituality is a set of states of mind, like transcendence and awe, which are evoked by those rituals but not exclusive to them
-
-All of these are, at least some of the time, useful definitions. All of them have edge cases where they seem clearly false.
-
-Our first and second definitions concern the supernatural. This is a major feature of religion, but is notably absent in many cases. For example, a contemporary American can consider themselves both a Buddhist and an atheist, and it doesn't seem like any meaningful criteria excludes this from being a meaningful spirituality. So spirituality cannot really be just the supernatural, although the supernatural is usually a major component of it.
-
-We can assert that these supernatural definitions are the correct definitions, and that any form of religion that does not strongly emphasize the supernatural is not "really religion", but this feels like No True Scotsman and is unsatisfying. Spirituality usually implies or is closely related to belief in the supernatural, but doesn't need to be.
-
-Our third definition is probably too expansive. Undeniably, beliefs about reality, virtue, meaning, etc are a crucial component of religious belief systems, but they can also just be beliefs. Maybe those beliefs are part of a system, and maybe they aren't. Atheism, existentialism and communism would all sometimes meet some or all of this definition, but someone holding a set of beliefs can have no other traits that we would normally consider religious.
-
-This is not to say that "ideology" or "belief system" is entirely a separate category of thing from religion. Religions are generally ideologies or belief systems. Atheism and existentialism can be too, and they do not usually resemble organized religion much, if at all. Communism, however, is in some cases a totalizing belief system that has all of the features of religion except the supernatural. It has canonical texts, authoritative interpreters, moral frameworks, community identity, practices of devotion, and answers to fundamental questions about meaning and purpose.
-
-So we need a broader, or at least different, category. Let's call these "totalizing belief systems". These are comprehensive systems of thought that can organize everything about how someone understands themselves and the world. They can be people's primary source of community, morality, and meaning. Crucially, these can be their primary source of identity: in the same way that someone will make being a Christian the defining feature of their lives, they can make being a Communist the defining feature of how they think of themselves and present themselves to others.
-
-In fact, for the specific case of Communism or a similarly totalizing secular ideology, I think we can directly say that in practice the definition of religion is either 1) tradition, where some things arbitrarily are religions and some things are not, or 2) the supernatural element. Nothing from the outside separates a devoted practitioner of Soviet Communism in 1950s Moscow from a devoted adherent to any world religion other than the supernatural element. This person attends party meetings, participates in May Day parades, sings the Internationale, performs self-criticism, maintains a shrine to Lenin in their home, contemplates the writings of Marx, and organizes their entire life around revolutionary ideology.
-
-This barely helps us to define spirituality, unfortunately. Although these types of beliefs are generally crucial to religions, they are also commonly non-religious. They may be held individually or in groups, with or without ritual or organized adherence, and may be very important to a specific religious community or actually very unimportant to the community even if it has them. So these types of beliefs are not, by themselves, spirituality.
-
-Our last two definitions are practices, like meditation or prayer, and the states of mind that they cause. States of mind associated with religious experience are peace, contemplation, awe, reverence, or connection to something larger. Often, but not always, these experiences are part of a group ritual. In those cases, the group experience seems to be crucial, and many people seem to seek connection to other people through religious practice.
-
-This seems much closer to capturing what is normally meant by spirituality. People are speaking about the particular states of consciousness that religious practice puts them into, either while they are doing it or on an ongoing basis through their lives. Both the practice itself and the state which the practice puts people into are certainly the core of what we usually mean by 'spirituality', and often to what we mean by religion.
-
-Out of these guesses at a definition, this one seems like the tidiest one. Spirituality is the religious experience, in its entirety and however it arises. Spirituality is what humans experience, and the experiences they cultivate, by engaging in traditional religious practices which are often known to evoke them. These states of consciousness may be pursued or achieved by other means, but they are the main event we are gesturing towards when we say "spirituality".
-
-## Does Rationalism Lack Systematic Spirituality?
-
-I will show you my hand: I do not think that rationalism lacks systematic spirituality.
-
-Rationalists are certainly discouraged from believing in the supernatural, and petitioning supernatural beings or forces is right out. Strictly naturalist and materialist. In terms of having beliefs about topics relevant to religion, rationalism has really a lot of them, but then so do existentialism and communism, neither of which is a religion. Rationalism lacks traditional rituals like prayer or meditation.
-
-You can credibly argue that rationalism lacks systematized spirituality for these reasons, and is therefore not a religion.
-
-If, on the other hand, spirituality is the feeling or the zeal, however they are cultivated, rationalism seems to have lots of that, and in fact seems to have rather specific common group rituals for evoking it.
-
-Inasmuch as rationalism resembles traditional religions, it is very clearly closest to being a religion of the book, and in fact emphasizes this element far above any other. What I mean by this is that the primary practice of rationalism is the study and discussion of the canonical texts of rationalism, primarily Eliezer Yudkowsky's `Sequences` (which also has a different title) and `Harry Potter and the Methods of Rationality`, but also various minor works, the most prominent of which is Scott Alexander's blog, originally called `Slate Star Codex`. This is differentiated from ordinary study of subjects by enthusiasts by its depth and seriousness. If you do not think that those works contain deep truths about the world, either about humanity or the singularity, you probably don't consider yourself a rationalist. (The singularity happens to be a type of apocalypse, which is a common form of religious writing and thinking, but we will return to that later).
-
-This does not parallel traditional religions exactly. Even where they emphasize scholarship, traditional religious institutions will generally have practices such as prayer, meditation and worship which exist alongside and sometimes supercede scholarship. The relative import of scholarship and other forms of devotion will vary based upon which sect one looks at. Many American Christian denominations emphasize education and scholarship very little. American Christian fundamentalists especially tend to emphasize scholarship among lay Christians, and sometimes even clergy, only to the limited degree required for them to proselytize to others. This constrasts sharply with, for example, the Jesuit tradition in Catholicism, which has several centuries of emphasizing scholarship and education under the motto "Ad maiorem Dei gloriam", or "For the Greater Glory of God".
-
-Many rationalists, a solid majority according to some surveys, are from Christian families. More than this, the community seems to have disproportionately attracted people from specifically fundamentalist Christian communities. This is probably at least somewhat that people who were raised in strict Christianity have more affinity for rationalism, but also has to do with rationalism being connected to the new atheist movement, which was (is?) predominantly composed of people who were (very) unhappy with Christianity. Much of why it seems obvious to many rationalists that rationalism is not a religion is, very likely, that it is so extremely different from specifically Christian fundamentalism, because Christian fundamentalism is their main experience of what a religion is.
-
-Due to its extreme emphasis on scholarship, the traditional religion which rationalism seems to most closely resemble is Judaism, where studying the Torah is intrinsically sacred, is highly emphasized by tradition, and is broadly considered a form of religious observance. One might object that rationalists only study those works and discuss what's in them to try to do important things later, but this is also sometimes said of Torah study, too.
-
-This last part is an interesting question which leads us towards another property of religion. There appears to be some amount of dispute in Jewish tradition about how much your intent in studying the Torah matters. Figuring out the exact nature of this dispute, who believes what, or even what the various positions actually mean would probably require me to learn at least a half dozen words of Hebrew I do not already know and read several thousand words. I am not going to do this, and hope that readers interested in this point will forgive me for it. There are many such disputes in Judaism, and one can spend an entire lifetime studying those disputes, and in fact having a deep understanding of these disputes is also part of the study.
-
-I chose to dwell on this, of course, because this resembles rationalism. Torah study generally involves a strong emphasis on argument and intellectual rigor. One of the arguments against rationalism being a religion is that rationalists argue and disagree with each other about important things a lot. I am not Jewish and my knowledge of Judaism is relatively cursory by many standards, but I feel reasonably certain that Judaism alone proves that "not arguing about things" is not, in fact, a defining trait of religions. If I try to imagine any Jew I have known in my life trying to tell me, with a straight face, that their religion is not at all about arguing and everyone always agrees on things, I very honestly cannot do it. That is just not how the faith works.
-
-We have one nagging concern here. Are the canonical rationalist texts, in their content, spiritual? If by this we mean concerned with the supernatural, obviously they are not. If instead we mean concerning or inspiring feelings of awe, reverence, et cetera, I think the answer is very clearly yes. I accept that I have not yet provided any examples of this or argued it in detail, but I promise to come back to it in a bit. Hopefully at this point it seems at least plausible that rationalist texts could, in theory, take the exact same place in many people's lives that traditional religious texts often hold. Rationalism might very well resemble traditional religions in that specific way.
+Pretty much any other major feature of religion you can name is present in rationalism. Rationalism's resemblance to traditional religion is so extreme that even if rationalism is not, technically, a religion, this seems like it is a pedantic distinction. It certainly has very distinct beliefs and rituals of its own, and only narrowly misses those points of comparison on what seem to be technicalities.
 
 ## Religions Are What They Do
 
-To try to make this comparison more general, we should back up just a little and revisit the question.
+Systems are what they do. Religions are, tautologically, the things that we call religions, and anything else which does these things should also be considered a religion, or at least religion-ish.
 
-Systems are what they do. This is elegant, and it echoes how words work: words are how they are used.
+For a more extensive examination of what religion is in terms of human behavior, I recommend [Durkheim](https://www.gutenberg.org/files/41360/41360-h/41360-h.htm). We will use our working definition: religion is the things that religions do. If it looks like a duck, walks like a duck, and quacks like a duck, it must be a duck.
 
 So: What does religion do?
 
-Religions are characterized by
+Religions are characterized by the influence that they have on the thoughts and behavior of their adherents.
 
-1) the people who adhere to them and  
-2) the institutions that those people form.
+Let's take communism, to pick a difficult example. Communism is not a religion and ordinarily does not resemble one very much. People can be communists extremely casually or extremely seriously, all the way up to being long-term communist party officials, without any of their behavior seeming very religious. In specific cases, however, communism appears quite religious based on the behavior of those practicing it. Nothing from the outside separates a devoted practitioner of Soviet Communism in 1950s Moscow from a devoted adherent to any world religion other than the supernatural element. This person attends party meetings like church, participates in May Day parades like Christmas, sings the Internationale like a hymn, performs self-criticism as strict as any confession, maintains a shrine to Lenin in their home like a saint, studies Marx like it's the Bible and organizes their entire life around the ideology.
 
-Any time the behavior of the people or the nature of the institution significantly resembles those of traditional religions, it is worth making at least some comparison. You can make, in my opinion, a credible case that this often makes contemporary institutions much more understandable if you acknowledge that they are at least religion-ish.
+Communism may not technically be a religion, but in such cases it might as well be. It sure does quack like a duck. Often this would be called a cult, but we can just call it a religion or, at least, remarkably religion-ish.
 
-For example, loyalty to a specific sports team is, of course, not a proper modern religion, but it resembles the civic religions of Greece to a remarkable degree. In Athens, the Panhellenic Games, including the precursor to the modern Olympic games, were explicitly religious festivals consecrated to the gods Zeus, Apollo, and Poseidon. They took place in consecrated sanctuaries which were major centers of worship for those gods, and the competition was meant to honor the god of the sanctuary and to bring favor to your city and to the patron god of your city. Concretely: an athlete competing from Athens was competing to bring home favor for Athens and its patron, Athena.
+For an example that's only slightly religion-ish, loyalty to a specific sports team is, of course, not a proper modern religion, but it resembles the civic religions of Greece to a remarkable degree. In Athens, the Panhellenic Games, including the precursor to the modern Olympic games, were explicitly religious festivals consecrated to the gods Zeus, Apollo, and Poseidon. They took place in consecrated sanctuaries which were major centers of worship for those gods, and the competition was meant to honor the god of the sanctuary and to bring favor to your city and to the patron god of your city. Concretely: an athlete from Athens competing in the Olympics was trying to bring home favor from Zeus for Athens and its patron, Athena.
 
-I confess that I enjoy this comparison in part because it implies that mascots are a sort of modern patron deity for a city, and it amuses me to think of Gritty as the patron god of Philadelphia. Even if this does not seem funny to you, it is hopefully clear how this could make the sometimes extreme and otherwise baffling behavior surrounding sporting events somewhat less confusing.
+I confess that I enjoy this comparison in part because it implies that mascots are a sort of modern patron deity for a city, and it amuses me to think of Gritty as a patron god of Philadelphia. Regardless, it is hopefully clear how this could make the sometimes extreme and otherwise baffling behavior surrounding sporting events somewhat less confusing. Sports is not a religion, and it's not even very religion-ish, but it's just a little bit religion-ish.
 
-Another interesting point of comparison is Burning Man, a music festival cultivating in burning a giant man. It has obvious parallels to the Celts burning wicker men, somewhat less obvious parallels to a wider range of festivals (and sometimes funerals) culminating in bonfires, and has pretty much all the traits of an ecstatic mystery cult other than sincere belief in any kind of god.
+Most voluntary associations are going to be just a little bit religion-ish. Fun examples to consider are Burning Man, Anthrocon, Disney World, Star Wars and Taylor Swift concerts. You can try to rank these all on a spectrum between being a Flyers fan in the cult of Gritty and having a Lenin shrine in your home. Are they more like being into hockey, or devoting your entire life to Comrade Lenin?
 
-### Genealogy of Rationalism
+Where do we put rationalism? To answer that, we need to look at where rationalism came from, what its core beliefs are, and how rationalists behave as a result of those beliefs.
 
-#### Artificial Intelligence
+## Building God and Living Forever
 
-#### Superintelligence
+Transhumanism is the direct ancestor of rationalism. Transhumanism is about the future of technology and humanity in general. It includes the ideas of artificial intelligence, superintelligence, and life extension, with which rationalism is quite concerned. These ideas predate rationalism, were commonly discussed before rationalism, and would exist without rationalism even though they are core rationalist ideas.
 
-#### Transhumanism
+On the one hand these things are, very very explicitly, not supernatural beliefs. They are completely naturalistic ideas about things which could, plausibly, happen in the future of human science. Whether or not you believe in these things is completely irrelevant to whether they're true, you are not encouraged to pray for them, and they make no claims about anything that might be considered magical, spiritual, or anything similar. If there were convincing evidence that any of these things were not true, rationalism would dictate that you should no longer think they were true.
 
-#### Rationalism
+On the other hand, it is not plausible that people talking and thinking about creating a nigh-omnipotent being and becoming immortal are not experiencing almost the same things that anyone in a traditional religion would. Compare this to talking and thinking about Jesus loving you forever in heaven. Provided that you're of the same species as your average devout Christian, and "omnipotent" and "happy" and "forever" mean roughly the same things to both you and them, you ought to be having pretty similar thoughts and feelings.
 
-![alt text](image.png)
+It's true, every cause does want to become a cult. This cause is about building a God and living forever, and it wants to become a cult about that. This is awfully similar to every religious apocalypse with a happy ending that has ever been written, it will inspire similar thoughts and feelings, and the cult that this wants to become looks a lot like every religion with an apocalypse.
+
+Either rationalists (and, apparently, only rationalists) are able to contemplate being immortal and happy in perfect world without being kind of weird about it, or rationalism is, inherently, always going to impact people who take it seriously in basically the same way that religion impacts people.
+
+If the impact on emotion and behavior is about the same, why does it matter if the belief is supernatural? People who believe supernatural things don't keep them in a special, separate part of their brain that has only their supernatural beliefs. It's true that traditional religions, if they contemplate an eternal and perfect life after this one, will do so supernaturally, but is that actually important to the impact of the belief? I don't think it is, and I don't see how it even could be.
+
+## Rationalism
+
+Accepting that we're using the word 'religion' loosely, I do not actually think that rationalism is a religion like Christianity or Buddhism is a religion. I think that transhumanism is. It's large, what it means is sort of vague, and there's a lot of possible ways to interpret it. Rationalism is more like a specific sect of transhumanism, the way Calvinists are a sect of Christianity and Zen Buddhism is a sect of Buddhism. It is by far the most influential type of transhumanism, so much so that probably more people have heard of rationalism than transhumanism these days.
+
+Rationalism becoming its own distinct thing starts in 2010. It is characterized primarily by Eliezer Yudkowsky's writings and secondarily by Scott Alexander's, with various other works being commonly read and discussed by the same group of people to a lesser extent.
+
+Eliezer Yudkowsky develops and spreads two core ideas that are not common in transhumanism before him:
+
+1) That superintelligent AI, once made, will probably kill everyone on Earth, and it is likely to be very difficult to prevent it from being made and killing everyone on Earth.
+2) That people can become better at distinguishing true things, or if you prefer, become more rational, by a series of practices, notably and especially applying Bayes' Theorem from probability theory to evaluating facts.
+
+These two things are very explicitly linked. The purpose of being more rational is to better deal with real-world problems, and especially to deal with the problem of everyone being killed by a superintelligent AI. [For example](https://www.readthesequences.com/The-Magnitude-Of-His-Own-Folly):
+
+> And by the same token, I didn’t fall into the conjugate trap of saying: Oh, well, it’s not as if I had code and was about to run it; I didn’t really come close to destroying the world. For that, too, would have minimized the force of the punch. It wasn’t really loaded? I had proposed and intended to build the gun, and load the gun, and put the gun to my head and pull the trigger; and that was a bit too much self-destructiveness.
+>
+> [...]
+>
+> And so I realized that the only thing I could have done to save myself, in my previous state of ignorance, was to say: “I will not proceed until I know positively that the ground is safe.” And there are many clever arguments for why you should step on a piece of ground that you don’t know to contain a landmine; but they all sound much less clever, after you look to the place that you proposed and intended to step, and see the bang.
+>
+> I understood that you could do everything that you were supposed to do, and Nature was still allowed to kill you. That was when my last trust broke. And that was when my training as a rationalist began.
+
+This body of work is huge and talks about a great many other things, but this is the core of rationalism. In the same way that the idea of creating a God and living forever is inherently going to inspire religion-like feelings and behaviors, the idea that everyone on Earth may die if people generally or you personally are not sufficiently rational will inherently inspire religious feelings and behaviors. This is inherent to the idea. It has end-times cult energy, it is faith-shaped, its essence is zealot-nature, it is the sort of core that our world religions are shaped around.
+
+### The Community
+
+People who read these things and take them seriously tend to get along with each other, and they form a community or a scene. They are heavily concentrated on a few parts of the internet and in the San Francisco Bay Area, where a number of them deliberately migrated to be a part of the scene. Rationalists sometimes describe their community as insular and weird, and I think that's a fair characterization.
+
+Rationalism is fundamentally an author fandom, and it has a deeply religious personality because the ideas the authors talk about are inherently religious in impact. I have been to book clubs, Bible study, and rationalist reading groups, and I defy anyone who has been to all three to tell me the rationalist reading group is more like the book club than the Bible study.
+
+Take this, from the post linked at the top:
+
+> 6. The community contains tons of disagreement about facts about the world, and even the sequences. in the current bay area sequences reading group, one of the default prompts for the readings is 'do you disagree with anything here? if so, what?' and then people debate about it.
+
+First, this assumes you know what the sequences are, because they are so important that everyone does. (They're a collection of Eliezer Yudkowsky's blog posts). Second, it assumes that disagreeing with the sequences is surprising. It sort of is: most rationalists really do just believe that most if not all of what's in the sequences is not only correct, but obviously so. If you hear someone mention the sequences, a safe assumption is that they're about to agree, either implicitly or aggressively, with what's in them and describe what's currently going on in relation to them. When rationalists disagree with the sequences those disagreements tend to be relatively minor. Disagreement is, actually, somewhat taboo.
+
+I suspect that because most rationalists are from Christian backgrounds, and disproportionately from fundamentalist Christian backgrounds, this doesn't really sound like religion to them. Fundamentalist Christians are not famous for being big readers, as a rule. If your idea of religion is fundamentalist Christianity, you probably see arguing with each other about the meaning of something or disagreeing with it as fundamentally non-religious. This is an understandable mistake. It also explains reacting to claims that rationalism is a religion as if it's an insult and not just a description of what rationalism is. Christianity is, however, not the only religion on Earth, and there are many things that are religions without resembling Christianity very much.
+
+I feel reasonably certain that Judaism alone proves that "not arguing about things" is not, in fact, a defining trait of religions. Reading canonical writings about the meaning of life and the correct way to think and then having a detailed argument about it is an inherently sacred act in Judaism. What rationalism as an institution most seems to resemble is a very culturally Jewish form of transhumanism. Rationalism focuses intensely upon apocalyptic doom, and highly values a specific sort of education, scholarship, and debate as practices towards preventing it. Perhaps not coincidentally, Eliezer was raised as an Orthodox Jew. (And honestly? Thank God for that. Peter Thiel is currently preaching an esoterically Christian form of transhumanism, and it's a fucking nightmare. May it find no disciples.)
+
+We will admit the distinction: Rationalism does not have rituals of meditation or prayer, and if that is what "spirituality" is and religions are "things with spirituality", then rationalism is not a religion. I think that the intensity of focus and scholarship surrounding works that are taken this seriously rises to the level of a religious practice, or at least, cannot credibly be compared to anything else nearly as well as it can be compared to intense study of sacred text.
+
+We can sketch out the size of the community's real-world footprint in brief, although it is probably smaller now than it was at its peak. The organizing page on lesswrong.com currently shows 226 local groups worldwide. In the Bay Area, which is the epicenter of rationalism, there are perhaps half a dozen obviously rationalist nonprofits with tens of millions in assets and several dozen full-time employees. Events range from local meetups to annual gatherings drawing hundreds, with an active core community numbering in the thousands. One of the best-attended events is Secular Solstice, which is basically rationalist Christmas, and there have been a number of rationalist group homes. I cannot think of another fandom that has anything like this.
+
+## Exclusivity, Totality
+
+This is our last real point of difference from traditional religion.
+
+Can you be a rationalist and also be something else? Can you be a rationalist without it coming to define you?
+
+Exclusivity is not, actually, characteristic of religions. Exclusivity is characteristic, especially, of Abrahamic religions, but you can e.g. practice Buddhism and Shinto and this is basically normal. So long as the major concerns of the religions themselves are non-overlapping, this works out fine. The Abrahamic religions make this difficult specifically because they explicitly declare that you may have the one, and only one, religion. Like many rules, these must exist for a reason: without them, people do actually tend to end up practicing more than one religion, in whole or part.
+
+So can you be a rationalist and something else? Sort of. Rationalism is explicitly atheist, and it is somewhat difficult to reconcile believing everything in rationalism with most forms of traditional religions. Buddhism, however, has non-supernatural forms, especially in America, and there are a few notable rationalist Quakers, although Quakers allow for non-theist adherents. It is, let us say, somewhat complicated. Anyone can, of course, simply embrace parts of rationalism and continue to adhere to a traditional theism, and it's not extremely likely that anyone would care to stop them.
+
+Can you be a rationalist without it defining you? That depends entirely on how seriously you take it. People can, of course, read the blog posts or the fan fiction, not take them extremely seriously, and go on with their lives. This probably accounts for most readers. People who call themselves rationalists sometimes say the defining trait of rationalism is taking weird ideas seriously, and this is certainly a major feature of the community. If you take the possibility that the world is going to end because of AI seriously, it is extremely likely to define your world view and the choices you make with your life. It would be bizarre if you took the idea seriously and it didn't.
+
+Even restricting who and what we consider rationalism to organizations explicitly affiliated with Eliezer Yudkowsky personally, there are dozens of people who have made ideas associated with rationalism their life's work. Often people would make more money in private industry, and choose not to. In non-profit corpo-speak, we would say the people working there are mission-driven employees. Rationalist endeavors tend to be well-staffed with mission-driven employees. These official rationalists have offered seminars, run summer camps, distributed copies of books, and produced untold volumes of literature meant to spread rationalist ideas and teach people rationalist techniques.
+
+If you take the core ideas of the sequences seriously, it is irrational not to make them a major focus of your life. How concerned should you be if the world is likely to end soon, but can be stopped by doing the correct thing? Should you make it your life's work, excluding all else? Should you [advocate for accepting nuclear war, if it's necessary to prevent AI research](https://time.com/6266923/ai-eliezer-yudkowsky-open-letter-not-enough/)? If this is not the "ancient, powerful monster" that has raised and destroyed civilizations, is it not trying to become something very like it?
+
+## Schisms, Cults, Heresies
+
+To his credit, Yudkowsky does not seem to especially want to have a cult. He seems sort of frustrated that everything around him is constantly trying to become a cult. He obviously benefits from having a well-funded non-profit with a ton of mission-motivated employees, and he denies being in or leading a cult somewhat regularly, but anything outside that domain doesn't seem to have very much to do with him personally.
+
+Nevertheless, a worldview centered on preventing an imminent apocalypse is extremely easy to weaponize. Extraordinary urgency justifies extraordinary demands. People can, and have, sacrificed their normal lives, severed ties with outsiders, and deferred everything to leaders whom they thought were important to the cause. They have killed, died, and gone to prison.
+
+[Ozy Brennan's article about rationalist cults](https://asteriskmag.substack.com/p/why-are-there-so-many-rationalist) is better at describing this dynamic than any I would hope to write about the topic. It does not dwell on the apocalyptic parts perhaps as much as I would. Nevertheless, the basic germ of it is this:
+
+> The Sequences make certain implicit promises. *There is an art of thinking better, and we’ve figured it out. If you learn it, you can solve all your problems, become brilliant and hardworking and successful and happy, and be one of the small elite shaping not only society but the entire future of humanity.*  
+> 
+> This is, not to put too fine a point on it, not true.
+> 
+> Multiple interviewees remarked that the Sequences create the raw material for a cult. [...]
+
+This describes it perfectly. The thing is, there's no meaningful difference between 'the raw material for a cult' and 'the raw material for a religion'. Any time a group of people shares these beliefs and takes them seriously, you have something functionally religious. Cults are just religious sects that are new, horrible, or both.
