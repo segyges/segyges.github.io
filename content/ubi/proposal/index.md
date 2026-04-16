@@ -4,6 +4,7 @@ draft: false
 slug: "proposal"
 source: "leaflet"
 sourceUrl: "https://segyges.leaflet.pub/3mgqz2eksts26"
+showDate: false
 ---
 
 # The Universal Dividend Act: Policy Rationale
