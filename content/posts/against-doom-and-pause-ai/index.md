@@ -3,7 +3,7 @@ title: "Against Doom & Pause AI"
 date: 2026-04-16
 draft: false
 slug: "against-doom-and-pause-ai"
-description: "An overview of sources with the best available arguments that AI alignment is solvable and an AI pause is a bad idea"
+description: "The best available arguments that AI alignment is solvable and an AI pause is a bad idea"
 ---
 
 # Against Inevitable Doom & Pause AI
