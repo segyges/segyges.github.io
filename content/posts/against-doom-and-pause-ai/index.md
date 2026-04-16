@@ -102,6 +102,14 @@ This blog lives at [optimists.ai](https://www.optimists.ai), and contains detail
 
 [Counting arguments provide no evidence for AI doom](https://optimists.ai/2024/02/27/counting-arguments-provide-no-evidence-for-ai-doom/)
 
+## Adriane Leicht on Policy
+
+Is an AI Pause a good idea, even assuming a relatively high (but not 100%) risk profile?
+
+> I believe these advocates are mistaken about the politics even if we grant their view of the risks: pauses and moratoria likely sabotage our progress on a narrow path toward beneficial and safe advanced artificial intelligence. And in the likely event of their political failure, they’ll leave behind a much worse environment of AI politics.
+
+[Press Play To Continue: ‘Pausing AI’ is bad policy and worse politics](https://writing.antonleicht.me/p/press-play-to-continue)
+
 ## Me
 
 I am actually not sure I would include these if I personally had not written them, because they are a little bit redundant with Beren and AI Optimism. I do, however, take a wider, more historical and less technical perspective.
@@ -113,6 +121,7 @@ I am actually not sure I would include these if I personally had not written the
 > The creationist argument is that you can never find a protein that works, because there are too many proteins that do not work. This argument is that you can never find an AI that does not kill everyone, because there are too many AI that do kill everyone. The assumptions are that the space is very large, and we are (or might be!) drawing from it at random. This is much more upsetting than the normal kind of counting argument, which tells you that God exists or that optimizers or autocomplete don’t work, but it is logically the same argument. It is also wrong for the same reasons.
 
 [Counting Arguments and AI](https://www.verysane.ai/p/counting-arguments-and-ai)
+
 
 ## An Argument I Haven't Seen Made In Long Form
 
