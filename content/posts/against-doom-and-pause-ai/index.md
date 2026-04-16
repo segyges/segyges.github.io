@@ -1,5 +1,5 @@
 ---
-title: "Against Inevitable Doom & Pause AI"
+title: "Against Doom & Pause AI"
 date: 2026-04-16
 draft: false
 slug: "against-doom-and-pause-ai"
