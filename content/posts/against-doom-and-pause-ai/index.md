@@ -103,7 +103,7 @@ This blog lives at [optimists.ai](https://www.optimists.ai), and contains detail
 
 [Counting arguments provide no evidence for AI doom](https://optimists.ai/2024/02/27/counting-arguments-provide-no-evidence-for-ai-doom/)
 
-## Adriane Leicht on Policy
+## Adrian Leicht on Policy
 
 Is an AI Pause a good idea, even assuming a relatively high level of risk?
 
