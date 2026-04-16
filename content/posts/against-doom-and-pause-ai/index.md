@@ -104,7 +104,7 @@ This blog lives at [optimists.ai](https://www.optimists.ai), and contains detail
 
 ## Adriane Leicht on Policy
 
-Is an AI Pause a good idea, even assuming a relatively high (but not 100%) risk profile?
+Is an AI Pause a good idea, even assuming a relatively high level of risk?
 
 > I believe these advocates are mistaken about the politics even if we grant their view of the risks: pauses and moratoria likely sabotage our progress on a narrow path toward beneficial and safe advanced artificial intelligence. And in the likely event of their political failure, they’ll leave behind a much worse environment of AI politics.
 
