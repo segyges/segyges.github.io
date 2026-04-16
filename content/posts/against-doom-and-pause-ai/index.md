@@ -25,7 +25,7 @@ Organization is entirely my preference.
 
 You can find this essay here: https://1a3orn.com/sub/essays-ai-doom-invincible.html.
 
-People seem to believe in inevitable AI doom because it's a compelling meme more than because they believe in any particular argument. The case is pretty compelling and well-argued. I would like to add that as the actual landscape has changed team doom has, seemingly, not changed any of its opinions.
+People seem to believe in inevitable AI doom because it's a compelling meme more than because they believe in any particular argument. I would like to add that as the actual landscape has changed team doom has, seemingly, not changed any of its opinions.
 
 This post makes a good case that just having a lot of arguments is no merit. I have therefore endeavored to include here only things which I think do not overlap much (if at all), and each of which if proven wrong I think would *considerably strengthen* the argument for inevitable doom.
 
