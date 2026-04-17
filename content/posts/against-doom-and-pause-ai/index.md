@@ -17,7 +17,7 @@ AI risk should be mitigated in a similar way to how we mitigate risks from other
 
 If AI is a roughly normal science, pushing for a complete ban or moratorium on AI is likely to be be counterproductive. If nothing else, such advocacy adds noise into the environment and can make it more difficult to stage other interventions that might be better, like interpretability research, safety evaluations, and release criteria.
 
-Other people have been arguing about this longer than I have and it's a broad topic covering both AI itself and the broad, societal issue of managing AI. In this case I think I can more productively engage with the subject as a whole by providing, basically, a literature review of who has written what that I think is correct. This was originally a thread by @deepfates, there was some desire to extend it, and it seemed like this canon perhaps needed a permanent home with the rationale for its existence right up top.
+Other people have been arguing about this longer than I have and it's a broad topic covering both AI itself and the broad, societal issue of managing AI. In this case I think I can more productively engage with the subject as a whole by providing, basically, a literature review of who has written what that I think is correct. This was originally a thread by [deepfates](https://x.com/deepfates), there was some desire to extend it, and it seemed like this canon perhaps needed a permanent home with the rationale for its existence right up top.
 
 Organization is entirely my preference.
 
