@@ -3,6 +3,7 @@ title: "On Clowns"
 date: 2026-04-21
 draft: false
 slug: "on-clowns"
+description: "There are a few factors that explain how things have gone downhill, but one of them is that social media elevates clowns."
 ---
 
 # On Clowns
