@@ -7,6 +7,8 @@ source: "substack"
 sourceUrl: "https://verysane.ai/p/what-makes-ai-generative"
 ---
 
+<!-- Source: https://www.verysane.ai/p/what-makes-ai-generative | Published: 2025-07-15T21:56:21+00:00 | Retrieved: 2026-11-22 -->
+
 To "generate" is to create, either from nothing (The Book of Genesis), or from very different or relatively inactive materials (an electrical generator, generating offspring).
 
 It is common to call newer technologies in AI "generative AI", which generate, for example, images or text. We are taking electricity and turning it into these new patterns of information. This distinguishes it from other systems, which may be or use AI but which are not "generative".
@@ -21,4 +23,4 @@ Due to the vast size of their output spaces, generative AI systems are, in pract
 
 The size of the output space is also why generative systems are more difficult and resource-intensive to make. To choose well between billions of things is difficult. To choose between effectively infinite options perfectly is impossible. No matter how well you do it there is always infinite work left to be done.
 
-[^1] This depends upon how predictable you think text is, in general. If every single bit of your text is random, it takes about three characters to exceed a billion possibilities, but if they are fairly predictable it may take as many as thirty characters to reach the same number. How difficult it is to predict text is a difficult question.
+[^1]: This depends upon how predictable you think text is, in general. If every single bit of your text is random, it takes about five characters to exceed a billion possibilities, but if they are fairly predictable it may take as many as thirty characters to reach the same number. How difficult it is to predict text is a difficult question.

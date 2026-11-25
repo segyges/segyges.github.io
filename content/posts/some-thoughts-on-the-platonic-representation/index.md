@@ -7,7 +7,9 @@ source: "substack"
 sourceUrl: "https://verysane.ai/p/some-thoughts-on-the-platonic-representation"
 ---
 
-# On The Platonic Representation Hypothesis
+<!-- Source: https://www.verysane.ai/p/some-thoughts-on-the-platonic-representation | Published: 2025-07-01T13:02:21+00:00 | Retrieved: 2026-11-22 -->
+
+Empirically there is one and only one correct understanding of this, and every other, post.
 
 > **Neural networks, trained with different objectives on different data and modalities, are converging to a shared statistical model of reality in their representation spaces.**
 >
@@ -45,7 +47,7 @@ In this allegory, you can only “leave the cave” by using reason to think abo
 
 ### Plato’s Cave, But With Neural Networks
 
-![A philosophical meme using Plato's Cave allegory format. The image shows a cave cross-section with people at different levels. At the top (sunlight/outside world): 'Platonic representations, or Forms'. In the middle cave area: 'Cameras, microphones, keyboards, etc'. At the bottom left (chained prisoners): 'Training data'. At the bottom right (shadows on wall): 'Actual things in the world'. The prisoners watching the shadows are labeled 'Sand etched with sigils to hold lightning'.](plato-with-maker.jpg)
+![A philosophical meme using Plato's Cave allegory format. The image shows a cave cross-section with people at different levels. At the top (sunlight/outside world): 'Platonic representations, or Forms'. In the middle cave area: 'Cameras, microphones, keyboards, etc'. At the bottom left (chained prisoners): 'Training data'. At the bottom right (shadows on wall): 'Actual things in the world'. The prisoners watching the shadows are labeled 'Sand etched with sigils to hold lightning'.](https://substack-post-media.s3.amazonaws.com/public/images/9d16cd04-d03e-41fb-854c-9d69a94c590d_536x465.png)
 
 The neural network only learns what is in its training data. Training data is not the thing itself, a picture of my cat is not my cat. We use things like cameras, microphones, and keyboards to record the world. This creates the data that we then crystallize into a neural network.
 
@@ -89,13 +91,13 @@ Still, that this can be done at all is remarkable. You take a large amount of te
 
 ## What Representation? The Same How?
 
-![A four-quadrant chart parodying the political compass format, analyzing songs on two axes: vertical axis from 'Wet' to 'Creepy', horizontal axis from 'Bouba' to 'Kiki'. The quadrants use the traditional political compass colors: top-left is red (Wet-Bouba), top-right is blue (Creepy-Bouba), bottom-left is green (Wet-Kiki), and bottom-right is purple (Creepy-Kiki). Five songs are plotted as black dots at random positions: 'Bad Romance', 'Smoke on the Water', '4'33', 'Straight Outta Compton', 'No Woman No Cry', and 'Fur Elise'.](nondefault_compass_grayback_cropped_with_points.png)
+![A four-quadrant chart parodying the political compass format, analyzing songs on two axes: vertical axis from 'Wet' to 'Creepy', horizontal axis from 'Bouba' to 'Kiki'. The quadrants use the traditional political compass colors: top-left is red (Wet-Bouba), top-right is blue (Creepy-Bouba), bottom-left is green (Wet-Kiki), and bottom-right is purple (Creepy-Kiki). Five songs are plotted as black dots at random positions: 'Bad Romance', 'Smoke on the Water', '4'33', 'Straight Outta Compton', 'No Woman No Cry', and 'Fur Elise'.](https://substack-post-media.s3.amazonaws.com/public/images/7cc1d002-5183-4b92-b241-695bbf1f8ac9_885x815.png)
 
-This is a representation space for songs. It is not taken from any actual neural network: this one is random, and the labels for the axes are nonsense.[^4] In principle, however, each of these songs could be put into some representation space that **did **make sense and capture information about them. This space would have to have a lot more dimensions than two, but the idea is the same. Neural networks, internally, represent things as vectors, which can be considered coordinates in (high dimensional) space: when we say the representation of something, we mean this point.
+This is a representation space for songs. It is not taken from any actual neural network: this one is random, and the labels for the axes are nonsense.[^4] In principle, however, each of these songs could be put into some representation space that **did** make sense and capture information about them. This space would have to have a lot more dimensions than two, but the idea is the same. Neural networks, internally, represent things as vectors, which can be considered coordinates in (high dimensional) space: when we say the representation of something, we mean this point.
 
 How do we know if two representation spaces are equivalent? By comparing them to each other, as you can with this different one:
 
-![A four-quadrant chart parodying the political compass format, analyzing songs on two axes: vertical axis from 'Wet' to 'Creepy', horizontal axis from 'Bouba' to 'Kiki'. The quadrants use the traditional political compass colors: top-left is red (Wet-Bouba), top-right is blue (Creepy-Bouba), bottom-left is green (Wet-Kiki), and bottom-right is purple (Creepy-Kiki). Five songs are plotted as black dots at random positions: 'Bad Romance', 'Smoke on the Water', '4'33', 'Straight Outta Compton', 'No Woman No Cry', and 'Fur Elise'. The songs all have the same relative positions as the previous image, but rotated, translated and dilated as a group.](nondefault_compass_grayback_cropped_with_moved_points.png)
+![A four-quadrant chart parodying the political compass format, analyzing songs on two axes: vertical axis from 'Wet' to 'Creepy', horizontal axis from 'Bouba' to 'Kiki'. The quadrants use the traditional political compass colors: top-left is red (Wet-Bouba), top-right is blue (Creepy-Bouba), bottom-left is green (Wet-Kiki), and bottom-right is purple (Creepy-Kiki). Five songs are plotted as black dots at random positions: 'Bad Romance', 'Smoke on the Water', '4'33', 'Straight Outta Compton', 'No Woman No Cry', and 'Fur Elise'. The songs all have the same relative positions as the previous image, but rotated, translated and dilated as a group.](https://substack-post-media.s3.amazonaws.com/public/images/30453045-151f-45fe-a4a2-b434e4e8fdad_885x815.png)
 
 The points are in different positions, but they have the same *relative* positions. Points that were close are still close, points that were far are still far, points that were lined up or almost lined up are still lined up, and so on. We can get from one map to the other simply by rotating and stretching the whole thing, without moving any of the points by themselves. This means these two representation spaces are equivalent.
 
@@ -109,7 +111,7 @@ Someone steals the disk that has all these representations saved on it, and want
 
 So we set up a completely new representation space, and we set that one up so that things can go between Alice’s representation to Bob’s representation through it and back while keeping distances the same.
 
-![Diagram showing three oval-shaped representation spaces connected by bidirectional arrows. At the top left is Alice's Representation Space (red/pink oval with black dots), at the top right is Bob's Representation Space (blue oval with black dots), and at the bottom is an unlabeled representation space (green/teal oval with black dots). Arrows connect all three spaces to each other, suggesting bidirectional relationships or information flow between the different representation spaces.](neural_network_mapping.png)
+![Diagram showing three oval-shaped representation spaces connected by bidirectional arrows. At the top left is Alice's Representation Space (red/pink oval with black dots), at the top right is Bob's Representation Space (blue oval with black dots), and at the bottom is an unlabeled representation space (green/teal oval with black dots). Arrows connect all three spaces to each other, suggesting bidirectional relationships or information flow between the different representation spaces.](https://substack-post-media.s3.amazonaws.com/public/images/439160e5-240b-4b38-b783-7db67aebd371_800x500.png)
 
 And this works. You can translate Bob representations to Alice representations, almost exactly, because there is, it turns out, really only one way to represent these things accurately. (You then have to translate Bob’s representations back into text. This may not even be possible: this representation, too, is a shadow. You might or might not be able to figure out how much money Giggle is making, or losing.)
 
@@ -117,7 +119,7 @@ So: it seems there is only one correct way to represent the meaning of text. Ali
 
 ## Beyond Text
 
-That is the most interesting and newest variant on this, but there is a reasonable amount of evidence that it’s true in general, and for models trained to do completely different sorts of things.  For a more detailed (and rather mathematical) treatment, one can read [the paper](https://phillipi.github.io/prh/). We summarize the broad review here.
+That is the most interesting and newest variant on this, but there is a reasonable amount of evidence that it’s true in general, and for models trained to do completely different sorts of things. For a more detailed (and rather mathematical) treatment, one can read [the paper](https://phillipi.github.io/prh/). We summarize the broad review here.
 
 Models for handling images, which are used to check them for similarity to each other and have never seen text of any kind, line up with models for dealing with words, and the better either is trained the more they line up. If the image model is trained on captions in addition to images, it barely makes a difference. An image model which has never been given a single piece of text, only images, still has a representation for “egg” that lines up with the representation for “egg” in a text model.[^6]
 

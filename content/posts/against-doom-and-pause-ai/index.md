@@ -17,7 +17,7 @@ AI risk should be mitigated in a similar way to how we mitigate risks from other
 
 If AI is a roughly normal science, pushing for a complete ban or moratorium on AI is likely to be be counterproductive. If nothing else, such advocacy adds noise into the environment and can make it more difficult to stage other interventions that might be better, like interpretability research, safety evaluations, and release criteria.
 
-Other people have been arguing about this longer than I have and it's a broad topic covering both AI itself and the broad, societal issue of managing AI. In this case I think I can more productively engage with the subject as a whole by providing, basically, a literature review of who has written what that I think is correct. This was originally a thread by [deepfates](https://x.com/deepfates), there was some desire to extend it, and it seemed like this canon perhaps needed a permanent home with the rationale for its existence right up top.
+Other people have been arguing about this longer than I have and it's a broad topic covering both AI itself and the broad, societal issue of managing AI. In this case I think I can more productively engage with the subject as a whole by providing, basically, a literature review of who has written what that I think is correct. This was originally a thread by @deepfates, there was some desire to extend it, and it seemed like this canon perhaps needed a permanent home with the rationale for its existence right up top.
 
 Organization is entirely my preference.
 
@@ -25,7 +25,7 @@ Organization is entirely my preference.
 
 You can find this essay here: https://1a3orn.com/sub/essays-ai-doom-invincible.html.
 
-People seem to believe in inevitable AI doom because it's a compelling meme more than because they believe in any particular argument. I would like to add that as the actual landscape has changed team doom has, seemingly, not changed any of its opinions.
+People seem to believe in inevitable AI doom because it's a compelling meme more than because they believe in any particular argument. The case is pretty compelling and well-argued. I would like to add that as the actual landscape has changed team doom has, seemingly, not changed any of its opinions.
 
 This post makes a good case that just having a lot of arguments is no merit. I have therefore endeavored to include here only things which I think do not overlap much (if at all), and each of which if proven wrong I think would *considerably strengthen* the argument for inevitable doom.
 
@@ -101,7 +101,7 @@ This blog lives at [optimists.ai](https://www.optimists.ai), and contains detail
 
 [Counting arguments provide no evidence for AI doom](https://optimists.ai/2024/02/27/counting-arguments-provide-no-evidence-for-ai-doom/)
 
-## Adrian Leicht on Policy
+## Anton Leicht on Policy
 
 Is an AI Pause a good idea, even assuming a relatively high level of risk?
 
@@ -120,7 +120,6 @@ I am actually not sure I would include these if I personally had not written the
 > The creationist argument is that you can never find a protein that works, because there are too many proteins that do not work. This argument is that you can never find an AI that does not kill everyone, because there are too many AI that do kill everyone. The assumptions are that the space is very large, and we are (or might be!) drawing from it at random. This is much more upsetting than the normal kind of counting argument, which tells you that God exists or that optimizers or autocomplete don’t work, but it is logically the same argument. It is also wrong for the same reasons.
 
 [Counting Arguments and AI](https://www.verysane.ai/p/counting-arguments-and-ai)
-
 
 ## An Argument I Haven't Seen Made In Long Form
 

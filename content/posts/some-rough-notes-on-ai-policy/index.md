@@ -7,7 +7,7 @@ source: "substack"
 sourceUrl: "https://verysane.ai/p/some-rough-notes-on-ai-policy"
 ---
 
-# Some Rough Notes on AI Policy
+<!-- Source: https://www.verysane.ai/p/some-rough-notes-on-ai-policy | Published: 2026-03-26T16:53:02+00:00 | Retrieved: 2026-11-22 -->
 
 I hope that we can, at some point, have some reasonable regulations on AI, as we do concerning banks, wiretaps, and dangerous chemicals. I am somewhat pessimistic about legislation we have seen in the past, and legislation we are seeing now. In the interest of being topical I am publishing this relatively brief and relatively rough summary of my views, which I believe to be at least reasonably informed and which I hope are, to some degree, useful. I am much more informed about AI than law, and can only hope that no defect in my understanding of the law is a major problem here.
 
@@ -17,7 +17,7 @@ Good regulations would directly regulate the sale and actual use of AI in such a
 
 For example: It is reasonable to require AI products to disclose that they are AI to the user. It would be reasonable to require AI-generated paid political advertisements to disclose that that they are AI. It would be reasonable to restrict AI companies from marketing or selling their tools as direct replacements for licensed professionals such as doctors or lawyers. It would be reasonable to regulate what can be sold for explicit use within those professions, and when it is appropriate for people in those professions to use them, since their licensure and professional conduct is already a government purview.
 
-It would be reasonable to write regulations explicitly laying out how existing liability and consumer protection law should apply to AI products. This includes "marketing defects", which are liability surrounding failure to warn about known dangers, and "design defects" which concern products that are unreasonably dangerous given the type of product it is and what can be changed about it. This also includes any ordinary liability laws that assign liability to essentially any product causing essentially any harm already, but which may benefit from more detailed laws concerning their application to AI products.
+It would be reasonable to write regulations explicitly laying out how existing liability and consumer protection law should apply to AI products. This includes “marketing defects”, which are liability surrounding failure to warn about known dangers, and “design defects” which concern products that are unreasonably dangerous given the type of product it is and what can be changed about it. This also includes any ordinary liability laws that assign liability to essentially any product causing essentially any harm already, but which may benefit from more detailed laws concerning their application to AI products.
 
 It would probably benefit society substantially to establish who, if anyone, is responsible for deploying paid AI services that generate prodigious amounts of content that is likely or arguably child sexual abuse material or revenge porn. This appears to currently be a legal gray area, and for this to be a legal gray area seems to be extremely bad.
 
@@ -35,7 +35,7 @@ In specific cases of high-scale and cutting-edge training, where the existence o
 
 For roughly the last four or five years, AI training data has been intensely legally contested. This provides very little benefit to smaller holders of intellectual property, because seeking payment usually requires filing a complicated lawsuit. Primarily relatively large and prominent corporations (The New York Times[^2], Disney[^3]) have been able to file lawsuits, and they generally settle them by working out licensing deals. By and large rights-holders have not been able to collect any royalties on the value their data adds to AI training, and the lawsuit-driven nature of training data legality is a constant frustration for academic study of AI for the public good. On net, the main effects are that large companies are slightly inconvenienced until they get around to making their data legal by, for example, scanning books[^4], smaller companies and academics are meaningfully harmed, and numerous copyright claims are tied up in court.
 
-It would likely be beneficial if there were a government process for licensing training data that did not require a lawsuit every single time. The Japanese government, notably, has declared AI training to be fair use in general.[^5] Mechanical licensing modelled on the music industry's process for cover songs seems, to me, more fair. Regardless of what solution is chosen, forcing judges to try to figure out, on a case-by-case basis, exactly in what way laws that were written for printed books sold to humans a hundred years ago should apply in each instance seems like it serves the interests of approximately nobody.
+It would likely be beneficial if there were a government process for licensing training data that did not require a lawsuit every single time. The Japanese government, notably, has declared AI training to be fair use in general.[^5] Mechanical licensing modelled on the music industry’s process for cover songs seems, to me, more fair. Regardless of what solution is chosen, forcing judges to try to figure out, on a case-by-case basis, exactly in what way laws that were written for printed books sold to humans a hundred years ago should apply in each instance seems like it serves the interests of approximately nobody.
 
 ## Regulations Cannot Fix The Job Market
 
@@ -47,9 +47,9 @@ To mitigate the impact of AI on the job market requires broad social policy that
 
 I confess that I am writing this almost entirely because I think prohibiting data center construction completely is a bad idea.
 
-There are regulations on data centers that do make sense. It makes perfect sense to hold data centers to existing environmental regulations, which the company formerly known as twitter has been publicly flouting[^6], and this may require legislation creating new methods of enforcing those laws. It makes sense to add a tax or fee on high-carbon electricity generation that is specifically being spun up for new data centers, and to deny permits where they would be driving up electricity rates significantly. It also makes sense to subsidize, or in extreme cases outright mandate, new generation capacity to be made of renewables. In cases where data centers are permitted inappropriately for local water availability, they should be penalized severely enough to stop them.[^7]
+There are regulations on data centers that do make sense. It makes perfect sense to hold data centers to existing environmental regulations, which the company formerly known as twitter has been publicly flouting,[^6] and this may require legislation creating new methods of enforcing those laws. It makes sense to add a tax or fee on high-carbon electricity generation that is specifically being spun up for new data centers, and to deny permits where they would be driving up electricity rates significantly. It also makes sense to subsidize, or in extreme cases outright mandate, new generation capacity to be made of renewables. In cases where data centers are permitted inappropriately for local water availability, they should be penalized severely enough to stop them.[^7]
 
-Outright banning the construction of new data centers doesn't, actually, help the problem. It will inconvenience the companies involved slightly, and they will move any new construction to another country. They will continue to sell roughly the products they are currently selling and, in general, doing whatever they are currently doing, but it will be slightly more expensive for them to do it now. In general, the thing that is bad about AI is that it works, and it doesn't work less if the machine that it is sitting on is across an international border.
+Outright banning the construction of new data centers doesn’t, actually, help the problem. It will inconvenience the companies involved slightly, and they will move any new construction to another country. They will continue to sell roughly the products they are currently selling and, in general, doing whatever they are currently doing, but it will be slightly more expensive for them to do it now. In general, the thing that is bad about AI is that it works, and it doesn’t work less if the machine that it is sitting on is across an international border.
 
 ## Chip Exports
 
@@ -63,21 +63,32 @@ Prophecies of arms races are self-fulfilling. It is probably not a good idea to 
 
 ## Conclusion
 
-Policy is not one thing, it is many things, and I am left in the awkward position of needing something like a conclusion here. If anything unifies all of these things, it is that policy here needs to be chosen carefully for how effective it is. We should consider, most of all, who benefits and how. Any policy that isn't tailored to remedy a specific wrong is unlikely to have a positive effect, and in some cases can significantly backfire.
+Policy is not one thing, it is many things, and I am left in the awkward position of needing something like a conclusion here. If anything unifies all of these things, it is that policy here needs to be chosen carefully for how effective it is. We should consider, most of all, who benefits and how. Any policy that isn’t tailored to remedy a specific wrong is unlikely to have a positive effect, and in some cases can significantly backfire.
 
 I am considering working on model legislation in the future, because it does seem like we are somewhat low on well-considered proposals here. If anything particularly seems needed currently, it is legislation that would actually begin to solve the problems that we have.
 
 In general laws are written for the technology that existed when they were written, and the progress of technology seems to have outpaced our ability to meaningfully apply the law to it. If we want technological progress to be a positive thing, we should devote almost equal energy to determining what to do and not do with it as we do to making it in the first place.
 
-[^1] [EU AI Act: Regulatory Framework for AI](https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai), European Commission. See Article 5 for prohibited practices.
-[^2] [The New York Times sues OpenAI and Microsoft for copyright infringement](https://www.npr.org/2025/01/14/nx-s1-5258952/new-york-times-openai-microsoft), NPR, January 2025.
-[^3] [Disney, NBC Universal, and DreamWorks file lawsuit against Midjourney](https://www.npr.org/2025/06/12/nx-s1-5431684/ai-disney-universal-midjourney-copyright-infringement-lawsuit), NPR, June 2025.
-[^4] [Anthropic Wins on Fair Use for Training its LLMs; Loses on Building a "Central Library" of Pirated Books](https://www.authorsalliance.org/2025/06/24/anthropic-wins-on-fair-use-for-training-its-llms-loses-on-building-a-central-library-of-pirated-books/), Authors Alliance, June 2025. Anthropic's "Project Panama" involved purchasing and scanning approximately two million physical books for training data. A federal judge ruled this was fair use under first-sale doctrine.
-[^5] Japan Copyright Act, Article 30-4 (2018 amendment). See [Japan Agency for Cultural Affairs overview](https://www.bunka.go.jp/english/policy/copyright/pdf/94055801_01.pdf).
-[^6] [In South Memphis, Elon Musk's Colossus Operated Gas Turbines Without Appropriate Permits](https://insideclimatenews.org/news/17072025/elon-musk-xai-data-center-gas-turbines-memphis/), Inside Climate News, July 2025.
-[^7] There are very few of these and the primary problem with those cases appears to be people bribing local permit authorities, which I was under the impression was already illegal. This should probably be enforced.
-[^8] [Commerce Strengthens Export Controls to Restrict China's Capability to Produce Advanced Semiconductors](https://www.bis.gov/press-release/commerce-strengthens-export-controls-restrict-chinas-capability-produce-advanced-semiconductors-military), Bureau of Industry and Security, October 2022.
-[^9] [Huawei's Kirin 9030 processor shows China's chip progress despite US export curbs](https://www.scmp.com/tech/tech-war/article/3336501/huaweis-kirin-9030-processor-shows-chinas-chip-progress-despite-us-export-curbs-report), South China Morning Post.
-[^10] [AI Chip Smuggling Is the Default, Not the Exception](https://www.aipolicybulletin.org/articles/ai-chip-smuggling-is-the-default-not-the-exception), AI Policy Bulletin. See also [U.S. Authorities Shut Down Major China-Linked AI Tech Smuggling Network](https://www.justice.gov/opa/pr/us-authorities-shut-down-major-china-linked-ai-tech-smuggling-network), DOJ.
-[^11] [How Chinese company DeepSeek released a top AI reasoning model despite US sanctions](https://www.technologyreview.com/2025/01/24/1110526/china-deepseek-top-ai-despite-sanctions/), MIT Technology Review, January 2025.
-[^12] [Trump greenlights Nvidia H200 chip sales to China, then imposes 25% tariff](https://www.cnbc.com/2026/01/14/trump-nvidia-h200-china-ai-chips.html), CNBC, January 2026. On China's limited interest in purchasing, see [Nvidia still hasn't sold its U.S.-approved China AI chips](https://www.cnbc.com/2026/02/26/nvidia-china-chip-sales-export-controls-ai-competition.html), CNBC, February 2026.
+[^1]: [EU AI Act: Regulatory Framework for AI](https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai), European Commission. See Article 5 for prohibited practices.
+
+[^2]: [The New York Times sues OpenAI and Microsoft for copyright infringement](https://www.npr.org/2025/01/14/nx-s1-5258952/new-york-times-openai-microsoft), NPR, January 2025.
+
+[^3]: [Disney, NBC Universal, and DreamWorks file lawsuit against Midjourney](https://www.npr.org/2025/06/12/nx-s1-5431684/ai-disney-universal-midjourney-copyright-infringement-lawsuit), NPR, June 2025.
+
+[^4]: [Anthropic Wins on Fair Use for Training its LLMs; Loses on Building a “Central Library” of Pirated Books](https://www.authorsalliance.org/2025/06/24/anthropic-wins-on-fair-use-for-training-its-llms-loses-on-building-a-central-library-of-pirated-books/), Authors Alliance, June 2025. Anthropic’s “Project Panama” involved purchasing and scanning approximately two million physical books for training data. A federal judge ruled this was fair use under first-sale doctrine.
+
+[^5]: Japan Copyright Act, Article 30-4 (2018 amendment). See [Japan Agency for Cultural Affairs overview](https://www.bunka.go.jp/english/policy/copyright/pdf/94055801_01.pdf).
+
+[^6]: [In South Memphis, Elon Musk’s Colossus Operated Gas Turbines Without Appropriate Permits](https://insideclimatenews.org/news/17072025/elon-musk-xai-data-center-gas-turbines-memphis/), Inside Climate News, July 2025.
+
+[^7]: There are very few of these and the primary problem with those cases appears to be people bribing local permit authorities, which I was under the impression was already illegal. This should probably be enforced.
+
+[^8]: [Commerce Strengthens Export Controls to Restrict China’s Capability to Produce Advanced Semiconductors](https://www.bis.gov/press-release/commerce-strengthens-export-controls-restrict-chinas-capability-produce-advanced-semiconductors-military), Bureau of Industry and Security, October 2022.
+
+[^9]: [Huawei’s Kirin 9030 processor shows China’s chip progress despite US export curbs](https://www.scmp.com/tech/tech-war/article/3336501/huaweis-kirin-9030-processor-shows-chinas-chip-progress-despite-us-export-curbs-report), South China Morning Post.
+
+[^10]: [AI Chip Smuggling Is the Default, Not the Exception](https://www.aipolicybulletin.org/articles/ai-chip-smuggling-is-the-default-not-the-exception), AI Policy Bulletin. See also [U.S. Authorities Shut Down Major China-Linked AI Tech Smuggling Network](https://www.justice.gov/opa/pr/us-authorities-shut-down-major-china-linked-ai-tech-smuggling-network), DOJ.
+
+[^11]: [How Chinese company DeepSeek released a top AI reasoning model despite US sanctions](https://www.technologyreview.com/2025/01/24/1110526/china-deepseek-top-ai-despite-sanctions/), MIT Technology Review, January 2025.
+
+[^12]: [Trump greenlights Nvidia H200 chip sales to China, then imposes 25% tariff](https://www.cnbc.com/2026/01/14/trump-nvidia-h200-china-ai-chips.html), CNBC, January 2026. On China’s limited interest in purchasing, see [Nvidia still hasn’t sold its U.S.-approved China AI chips](https://www.cnbc.com/2026/02/26/nvidia-china-chip-sales-export-controls-ai-competition.html), CNBC, February 2026.
